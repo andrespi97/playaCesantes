@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/playaCesantes/static/css/main.21a0c7fd.css",
+    "main.js": "/playaCesantes/static/js/main.c9df98de.js",
+    "static/js/453.c810af29.chunk.js": "/playaCesantes/static/js/453.c810af29.chunk.js",
+    "index.html": "/playaCesantes/index.html",
+    "main.21a0c7fd.css.map": "/playaCesantes/static/css/main.21a0c7fd.css.map",
+    "main.c9df98de.js.map": "/playaCesantes/static/js/main.c9df98de.js.map",
+    "453.c810af29.chunk.js.map": "/playaCesantes/static/js/453.c810af29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21a0c7fd.css",
+    "static/js/main.c9df98de.js"
+  ]
+}
